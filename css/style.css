@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Vollkorn+SC&display=swap');
+
+body {
+    width: 100%;
+    overflow-x: hidden;
+    background-image: url("/harj2/pics/bg.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+ .logo {
+    font-family: 'Vollkorn SC', serif;
+}
+
+.container {
+    padding-top: 70px;
+}
+
+input[type=file] {
+    margin-bottom: 15px;
+}
+
+#images {
+    font-size: 24px;
+    font-weight: bold;
+    color: 	#343A40;
+}
+
+#browse {
+    display: block;
+    margin-top: 15px;
+}
